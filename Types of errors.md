@@ -1,0 +1,1 @@
+Jakob Nielson distinguishes between two types of errors: **slips** and **mistakes**
