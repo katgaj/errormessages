@@ -2,7 +2,9 @@
 
  According to Jakob Nielsen an error message is "a system-generated interruption to the user's workflow that informs the user of an incomplete, incompatible, or undesirable situation according to the system's implementation".
 
-In other words, an error message is a piece of text that tells the users that the action they took didn't not succeed.  Sometimes it is quite explanatory presenting the steps that the user should take to proceed with his or her work. However, there happen messages like this 
+In other words, an error message is a piece of text that tells the users that the action they took didn't not succeed.  
+
+Sometimes it is quite explanatory presenting the steps that the user should take to proceed with his or her work. However, there happen messages like this 
 
 ![oops](oops.jpg)
 
