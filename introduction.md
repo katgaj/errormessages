@@ -1,4 +1,4 @@
-# what are error messages #
+# What are error messages #
 
 In a nutshell, an error message is a piece of text that tells the users that the action they took didn't not succed.  Sometimes it is quite explanatory presenting the steps that the user should take to proceed with his or her work. However, there happen messages like this 
 
