@@ -9,7 +9,7 @@ or that
 ![wrong_message](wrong_message.png) 
 making your users frustrated because it is vague and it doesn't explain what to next. 
 
-Let's be honest, how much of your attention while creating new software do you pay to the possibility of error occurance?
+Let's be honest, how much of your attention while creating new software do you pay to the possibility that the errors will occur?
 You probably mostly concentrate on the part that should go well and not on the part that should go wrong.
 
 Nevertheless, you build a product for the customer who will spend quite a lot of money on it, and if so, bare in mind that errors are inevitable. To make the product more customer-friendly you need to prepare well-written and efficient error messages.
