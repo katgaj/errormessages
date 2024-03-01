@@ -1,8 +1,9 @@
-1. You have to make it clear that the error occured:
+1. You have to make it clear that the error occured (visibility of system status). 
+Give solution and explain what happened.
 
 
 
-2. Never blame the user. You create the product so you are responsible for any mistakes that the user will encounter.
+3. Never blame the user. You create the product so you are responsible for any mistakes that the user will encounter.
 
 Avoid messages like these:
 
