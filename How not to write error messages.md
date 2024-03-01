@@ -1,5 +1,7 @@
 1. You have to make it clear that the error occured (visibility of system status). 
-Give solution and explain what happened.
+Give solution and explain what happened. It is critical for the user to deal with the problem first. 
+
+przykłady
 
 
 
