@@ -1,1 +1,1 @@
-Never blame the user
+Never blame the user. You create the product so you are responsible for any mistakes that the user will encounter.
