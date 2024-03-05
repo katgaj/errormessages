@@ -17,6 +17,6 @@ It is your job to work on the product to eliminate as many error.... scenarios a
 
 3. Avoid **capital letters**, they are is considered to be rude, and can be interpreted as shouting at someone. The whole experience with the error message is already frustrating for the user, there is no need to aggreviate this feeling. 
 
-The same applies to the words such as *error*, *mistake*, *warning*, or any other words that can  raise the user's feeling of anxiety (*illegal*, *invalid*, *incorrect* are not preferable optioms either).
+The same applies to the words such as *error*, *mistake*, *warning*, or any other words that can  raise the user's feeling of anxiety (*illegal*, *invalid*, *incorrect* are not preferable options either).
 
 4. Do not use **humor**. When you are serious while giving the solution the user gets the idea that your treat the problem seriously and with adequate attention
