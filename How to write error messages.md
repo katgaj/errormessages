@@ -7,8 +7,12 @@ przykłady, ale są też wyjątki (np komunikat microsoft z wojtka Aleksandra)
 
 "Error messages should be expressed in **plain language** (no error codes), precisely indicate the problem, and constructively suggest a solution.
 
+AS Wojciech Aleksander suggests it is best to use *inverted pyramid*, which means that you should start the 
+
 These error messages should also be presented with visual treatments that will help users notice and recognize them." (Nielsen)
 
 Z Wojtka aleksandra o podpowiedziach w wyszukiwarce
 
 **use confirmative sentences**
+
+**Give alternative solutions** (Wojtek - nie zostawiaj na lodzie)
