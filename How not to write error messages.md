@@ -22,3 +22,11 @@ The same applies to the words such as *error*, *mistake*, *warning*, or any othe
 4. Do not use **humor**. When you are serious while giving the solution the user gets the idea that your treat the problem seriously and with adequate attention
 
 **Glos i ton w produktach Wojtek aleksander**
+
+## Avoid premature error messages ##
+
+"Premature error messages are error messages that are presented by the system too early — before the user has reached a fair and reasonable point in the workflow to have truly committed an error or not.
+
+Consider a user filling out a form — a common task on many websites and applications. Ideally, and when technical constraints allow, it’s best to inform users of any form errors in real time, as they are committed. But many form validation triggers are too impulsive, displaying error messages before the user has had a chance to finish filling in the field.
+
+One such case is when a system displays an error message before the user is finished typing a value in a form field with a predetermined, correct format. The error message is displayed as soon as the user begins typing, even when they have not veered off course from the predetermined format. "
