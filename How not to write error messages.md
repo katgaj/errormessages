@@ -1,4 +1,4 @@
-
+# How not to write error messages #
 
 
    1. **Never blame the user**. You create the product so you are responsible for any mistakes that the user will encounter.

@@ -1,3 +1,7 @@
+# How to write error messages #
+
+“The best error message is the one that never shows up” — Thomas Fuchs
+
 The basic idea is to think of potential errors during the process of creating the application and not after it is implemented. This will help you prepare different scenarios for various error situations. What is more, you may even be able to eliminate errogenic situations from your product.
 
 You have to make it clear that the error occured (visibility of system status). The best option is to display the error message close to the error's source.

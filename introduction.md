@@ -4,11 +4,11 @@
 
 In other words, an error message is a piece of text that tells the users that the action they took didn't not succeed.  
 
-Sometimes it is quite explanatory presenting the steps that the user should take to proceed with his or her work. However, there may happen a message like this 
+Sometimes it is quite explanatory presenting the steps that the user should take to proceed with his or her work. However, there may happen a message like this:
 
 ![oops](oops.jpg)
 
-or that
+or that:
 
 ![wrong_message](wrong_message.png) 
 making your users frustrated because it is vague and it doesn't explain what to next. 
