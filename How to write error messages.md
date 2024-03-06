@@ -50,7 +50,7 @@ Z Wojtka aleksandra o podpowiedziach w wyszukiwarce
 
 ## Use the right format for your error messages ##
 
-Error messages are typically presented using modal dialog boxes — overlays that prevent users from interacting with underlying content. Putting error messages in modal dialog boxes has a major benefit — it gets 100 percent of the user’s attention. Thus, they should only be used in important situations like destructive actions (such as deletions).
+Error messages are typically presented in modal dialog boxes — overlays that prevent users from interacting with underlying content. Putting error messages in modal dialog boxes has a major benefit — it gets 100 percent of the user’s attention. Thus, they should only be used in important situations like destructive actions (such as deletions).
 
 
 
