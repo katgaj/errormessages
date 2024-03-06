@@ -1,6 +1,8 @@
 The basic idea is to think of potential errors during the process of creating the application and not after it is implemented. This will help you prepare different scenarios for various error situations. What is more, you may even be able to eliminate errogenic situations from your product.
 
 You have to make it clear that the error occured (visibility of system status). 
+
+![visibility](visibility.png)
 Give solution and explain what happened. It is critical for the user to deal with the problem first. 
 
 przykłady, ale są też wyjątki (np komunikat microsoft z wojtka Aleksandra)
@@ -23,7 +25,7 @@ Compare these two messsages:
 
 The first one only communicates about the error without any expalanation what went wrong, what is missing and how to enter the correct data.
 
-The second one, on the other hand,  gives the solution first, and then informs that the error occurred.
+The second one, on the other hand, gives the solution first, and then informs that the error occurred.
 
 In the example above you can notice that error messages should be also presented with visual treatments that will help users spot and recognize them.
 
