@@ -1,4 +1,4 @@
-# What are error messages #
+# What is an error message #
 
  According to Jakob Nielsen an error message is "a system-generated interruption to the user's workflow that informs the user of an incomplete, incompatible, or undesirable situation according to the system's implementation".
 
