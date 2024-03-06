@@ -38,3 +38,6 @@ Z Wojtka aleksandra o podpowiedziach w wyszukiwarce
 **use confirmative sentences**
 
 **Give alternative solutions** (Wojtek - nie zostawiaj na lodzie)
+
+
+!!!!!!youtube video: provide helpful constraints so that the user is limited to scenarios in which they can face an error message!!!!!
