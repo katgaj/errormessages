@@ -7,9 +7,13 @@ przykłady, ale są też wyjątki (np komunikat microsoft z wojtka Aleksandra)
 
 "Error messages should be expressed in **plain language** (no error codes), precisely indicate the problem, and constructively suggest a solution.
 
-AS Wojciech Aleksander suggests it is best to use *inverted pyramid*, which means that you should start the error message with the solution to the problem
+As Wojciech Aleksander points out in his "UX writing. Moc języka w produktach cyfrowych",when you write an error message it is best to use *inverted pyramid*:
 
 ![pyramid](The-inverted-pyramid.png)
+
+The most improtant information is how to solve the problem.
+
+Then you can explain what happened, and finally, you may provide the user with some details, eg. what brought the error about.
 
 These error messages should also be presented with visual treatments that will help users notice and recognize them." (Nielsen)
 
