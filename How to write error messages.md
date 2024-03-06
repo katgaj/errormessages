@@ -17,7 +17,9 @@ Then you can explain what happened, and finally, you may provide the user with s
 
 These error messages should also be presented with visual treatments that will help users notice and recognize them." (Nielsen)
 
-"Text and highlights that are bold, high-contrast, and red are conventional error-message visuals. Use this styling for the message and for the affected elements needing correction. Another technique for improving noticeability is leveraging carefully designed animations to guide the user's visual attention for corrections. Remember accessibility guidelines to aid the roughly 350 million people worldwide with a color-vision deficiency, and never use exclusively color or animation to indicate errors."
+Conventionally, use bold text and highlights, high-contrast and red color for the affected elements needing correction. 
+
+However, remember that for about 350 million people worldwide with a color-vision deficiency, this may not be enough and, therefore, apply the animation to indicate errors as well.
 
 ![amazon](amazon.jpg)
 
