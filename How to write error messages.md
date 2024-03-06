@@ -15,9 +15,19 @@ The most improtant information is how to solve the problem.
 
 Then you can explain what happened, and finally, you may provide the user with some details, eg. what brought the error about.
 
-These error messages should also be presented with visual treatments that will help users notice and recognize them." (Nielsen)
+Compare these two messsages:
 
-Conventionally, use bold text and highlights, high-contrast and red color for the affected elements needing correction. 
+![wrong_2](wrong_2.png)
+
+![good_podpowiedzi](good_podpowiedzi.png)
+
+The first one only communicates about the error without any expalanation what went wrong, what is missing and how to enter the correct data.
+
+The second one, on the other hand,  gives the solution first, and then informs that the error occurred.
+
+In the example above you can notice that error messages should be also presented with visual treatments that will help users spot and recognize them.
+
+Conventionally, use bold text and highlights, high-contrast and red color (as in the message above) for the affected elements that require correction. 
 
 However, remember that for about 350 million people worldwide with a color-vision deficiency, this may not be enough and, therefore, apply the animation to indicate errors as well.
 
